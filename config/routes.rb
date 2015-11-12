@@ -1,7 +1,8 @@
 Rails.application.routes.draw do
-  resources :items
 
-  resources :lists
+  resources :lists do
+    resources :items
+  end
 
   get '/login' => 'login#new', :as => 'login'
   post '/login' => 'login#create'
