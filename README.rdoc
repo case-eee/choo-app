@@ -1,3 +1,3 @@
 == Choo
 
-Making decisions easier...
+Making decisions easier...one at a time.
