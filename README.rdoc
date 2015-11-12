@@ -1,3 +1,5 @@
 == Choo
 
 Making decisions easier...
+
+..and showing students how to resolve merge conflicts!
